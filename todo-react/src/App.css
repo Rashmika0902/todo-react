@@ -1,0 +1,22 @@
+
+/* App.css */
+
+body {
+  /* Specify background image */
+  background-image: url('./assets/image.jpg');
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  height: 100vh;
+
+
+  
+
+
+
+
+  
+}
+
+
+
